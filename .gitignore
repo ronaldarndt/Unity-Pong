@@ -1,6 +1,6 @@
-.vs/
-bin/
-Library/
-Logs/
-obj/
-Temp/
+/.git
+/.vs
+/Library
+/Logs
+/obj
+/Temp
